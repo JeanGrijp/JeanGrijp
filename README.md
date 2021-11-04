@@ -43,6 +43,7 @@
   <img align="center" title="npm" alt="Jean-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" title="yarn" alt="Jean-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg">
   <img align="center" title="Mysql" alt="Jean-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" title="Markdown" alt="Jean-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 
 </div>
  
@@ -67,8 +68,10 @@
  
  </div>
  
- ##
  
+ 
+ ##
+ pandas/pandas-original.svg
  ### O que quero aprender
  <div style="display: inline_block">
   <img align="center" title="Graphql" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
@@ -82,7 +85,12 @@
   <img align="center" title="Gimp" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
   <img align="center" title="Jupyter" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" title="Django" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" title="Flutter" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" title="Flutter" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
+  <img align="center" title="Pandas" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" title="Numpy" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" title="Github" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" title="Gitlab" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" title="C#" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
  </div><br>
  
