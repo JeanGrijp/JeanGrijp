@@ -44,6 +44,8 @@
   <img align="center" title="yarn" alt="Jean-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg">
   <img align="center" title="Mysql" alt="Jean-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title="Markdown" alt="Jean-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  <img align="center" title="Github" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" title="Gitlab" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 
 </div>
  
@@ -88,8 +90,6 @@
   <img align="center" title="Flutter" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
   <img align="center" title="Pandas" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" title="Numpy" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" title="Github" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" title="Gitlab" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" title="C#" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
  </div><br>
