@@ -9,7 +9,6 @@
 
 </div>
 
-
 - 🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco;
 - 👨‍💻 Desenvolvedor Júnior na Stefanini;
 - 👨‍🏫 Monitor de engenharia de software - IF977
