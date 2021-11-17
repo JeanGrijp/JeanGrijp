@@ -70,7 +70,7 @@
  
  
  ##
- pandas/pandas-original.svg
+ 
  ### O que quero aprender
  <div style="display: inline_block">
   <img align="center" title="Graphql" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
