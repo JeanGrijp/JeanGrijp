@@ -65,7 +65,7 @@
   <img align="center" title="Firebase" alt="Jean-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" title="Mongodb" alt="Jean-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" title="Postgresql" alt="Jean-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" title="Babel" alt="Jean-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
+<!--   <img align="center" title="Babel" alt="Jean-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"> -->
  
  </div>
  
