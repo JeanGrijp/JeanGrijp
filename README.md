@@ -92,7 +92,8 @@
   <img align="center" title="Numpy" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
 <!--   <img align="center" title="C#" alt="Jean-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 
- </div><br>
+ </div>
+ <br>
  
  ##
  
