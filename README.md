@@ -4,7 +4,14 @@ Hi 👋 My name is Jean Grijp
 Front-End Developer
 -------------------
 
-🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco 👨‍💻 Desenvolvedor Júnior na Stefanini 👨‍🏫 Monitor de engenharia de software - IF977 ❤️ Apaixonado por Front-End 🌱 Estudando React.js com TypeScript 😊 Criador da página do instagram @grijp.js 🧩 Amo resolver desafios 🎸 Amo tocar violão
+🎓 Estudante de Sistemas de Informação na Universidade Federal de Pernambuco 
+👨‍💻 Desenvolvedor Júnior na Stefanini 
+👨‍🏫 Monitor de engenharia de software - IF977 
+❤️ Apaixonado por Front-End 
+🌱 Estudando React.js com TypeScript 
+😊 Criador da página do instagram @grijp.js 
+🧩 Amo resolver desafios 
+🎸 Amo tocar violão
 
 * 🌍  I'm based in Recife, PE.
 * 🖥️  See my portfolio at [here](http://www.jeangrijp.com.br)
