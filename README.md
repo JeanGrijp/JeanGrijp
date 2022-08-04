@@ -15,7 +15,7 @@ Front-End Developer
 </div>
 
 * 🎓 Student of Information Systems at the Federal University of Pernambuco;
-* 👨‍💻 Junior Developer at Stefanini;
+* 👨‍💻 Pleno Front-end Developer;
 * 👨‍🏫 Software engineering discipline monitor;
 * ❤️ Passionate about Front-End;
 * 🌱 Studying React.js with TypeScript;
@@ -25,7 +25,6 @@ Front-End Developer
 * 🌍  I'm based in Recife, PE.
 * 🖥️  See my portfolio at [here](http://www.jeangrijp.com.br)
 * ✉️  You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
-* 🧠  I'm learning AWS, Node.js, Express, Nest.js, Django Frameworks and Data Science.
 
 
 ### Skills
