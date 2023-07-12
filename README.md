@@ -1,8 +1,12 @@
-Hi 👋 My name is Jean Grijp
-===========================
+<h1 align="center">Hi 👋, I'm Jean Grijp</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-Front-End Developer
--------------------
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangrijp&label=Profile%20views&color=0e75b6&style=flat" alt="jeangrijp" /> </p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeangrijp" alt="jeangrijp" /></a> </p>
+
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+
 
 <div style="display: inline_block">
  <img src="https://komarev.com/ghpvc/?username=JeanGrijp&color=green" alt="JeanGrijp" /> 
@@ -14,22 +18,28 @@ Front-End Developer
 
 </div>
 
-* 🎓 Student of Information Systems at the Federal University of Pernambuco;
-* 👨‍💻 Pleno Front-end Developer;
-* 👨‍🏫 Software engineering discipline monitor;
-* ❤️ Passionate about Front-End;
-* 🌱 Studying React.js with TypeScript;
-* 😊 Instagram page creator @grijp.js;
-* 🧩 I love solving challenges;
-* 🎸 I love playing guitar;
-* 🌍  I'm based in Recife, PE.
-* 🖥️  See my portfolio at [here](http://www.jeangrijp.com.br)
-* ✉️  You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
+- 🎓 Student of Information Systems at the Federal University of Pernambuco;
+- 👨‍💻 Pleno Front-end Developer;
+- 👨‍🏫 Software engineering discipline monitor;
+- ❤️ Passionate about Front-End;
+- 🌱 Studying React.js with TypeScript;
+- 😊 Instagram page creator @grijp.js;
+- 🧩 I love solving challenges;
+- 🎸 I love playing guitar;
+- 🌍 I'm based in Recife, PE.
+- ✉️ You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
+- 🔭 I’m currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en)
+- 🌱 I’m currently learning **Three.js and Next.js**
+- 👨‍💻 All of my projects are available at [www.grijp.com.br](www.grijp.com.br)
+- 📝 I regularly write articles on [www.grijp.com.br/blog](www.grijp.com.br/blog)
+- 💬 Ask me about **React.js**
 
 
-### Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -39,66 +49,9 @@ Front-End Developer
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<!-- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> -->
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/jeangrijp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/JeanGrijp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/grijp.js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeangrijp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@grijpjean" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCpC8wkiV71dLBzo2Q4h1n2w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<div style="display: inline_block">
-
-<a href="http://www.github.com/JeanGrijp"><img src="https://github-readme-stats.vercel.app/api?username=JeanGrijp&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="JeanGrijp's GitHub stats" /></a>
-
-<a href="http://www.github.com/JeanGrijp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanGrijp&stroke=ffffff&background=581c87&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
- </div>
- 
-<a href="http://www.github.com/JeanGrijp"><img src="https://activity-graph.herokuapp.com/graph?username=JeanGrijp&bg_color=581c87&color=ffffff&line=facc15&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/JeanGrijp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGrijp&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div> 
-
- 
-  ![Snake animation](https://github.com/JeanGrijp/JeanGrijp/blob/output/github-contribution-grid-snake.svg)
- 
- 
- <p align="center">
-   <img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-</div>
-
-<h1 align="center">Hi 👋, I'm Jean Grijp</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeangrijp&label=Profile%20views&color=0e75b6&style=flat" alt="jeangrijp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeangrijp" alt="jeangrijp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en)
-
-- 🌱 I’m currently learning **Three.js and Next.js**
-
-- 👨‍💻 All of my projects are available at [www.grijp.com.br](www.grijp.com.br)
-
-- 📝 I regularly write articles on [www.grijp.com.br/blog](www.grijp.com.br/blog)
-
-- 💬 Ask me about **React.js**
-
-- 📫 How to reach me **grijpjean@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -110,11 +63,30 @@ Front-End Developer
 <a href="https://discord.gg/Jean Grijp#0134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jean Grijp#0134" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<b>My GitHub Stats</b>
+
+<div style="display: inline_block">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeangrijp&show_icons=true&locale=en&layout=compact" alt="jeangrijp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeangrijp&show_icons=true&locale=en" alt="jeangrijp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeangrijp&" alt="jeangrijp" /></p>
+
+
+
+<a href="http://www.github.com/JeanGrijp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanGrijp&stroke=ffffff&background=581c87&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+ </div>
+ 
+
+
+![Snake animation](https://github.com/JeanGrijp/JeanGrijp/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+
+
+ <p align="center">
+   <img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+</div>
+
