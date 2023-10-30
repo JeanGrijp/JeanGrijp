@@ -29,7 +29,7 @@
 - 🌍 I'm based in Recife, PE.
 - ✉️ You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
 - 🔭 I’m currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en)
-- 🌱 I’m currently learning **Three.js and Next.js**
+- 🌱 I’m currently learning **C# and .NET**
 - 👨‍💻 All of my projects are available at [www.grijp.com.br](www.grijp.com.br)
 - 📝 I regularly write articles on [www.grijp.com.br/blog](www.grijp.com.br/blog)
 - 💬 Ask me about **React.js**
