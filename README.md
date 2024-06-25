@@ -24,19 +24,18 @@
 
 - 🎓 Student of Information Systems at the Federal University of Pernambuco;
 - 👨‍💻 Pleno Front-end Developer;
+- 👨‍💻 Junior Back-end Developer;
 - 👨‍🏫 Software engineering discipline monitor;
 - ❤️ Passionate about Front-End;
-- 🌱 Studying React.js with TypeScript;
 - 😊 Instagram page creator @grijp.js;
 - 🧩 I love solving challenges;
 - 🎸 I love playing guitar;
-- 🌍 I'm based in Recife, PE.
-- ✉️ You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
-- 🔭 I’m currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en)
-- 🌱 I’m currently learning **C# and .NET**
-- 👨‍💻 All of my projects are available at [www.grijp.com.br](www.grijp.com.br)
-- 📝 I regularly write articles on [www.grijp.com.br/blog](www.grijp.com.br/blog)
-- 💬 Ask me about **React.js**
+- 🌍 I'm based in Recife, PE;
+- ✉️ You can contact me at [grijpjean@gmail.com](mailto:grijpjean@gmail.com);
+- 🔭 I’m currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en) as a Full-Stack Developer;
+- 🌱 I’m currently improving my skills with **C# and .NET**;
+- 👨‍💻 My simple project [AMFM - About My Favorite Movie](https://www.aboutmyfavoritemovie.com.br/)
+- 💬 Ask me about **React.js**;
 
 
 <h3 align="left">Languages and Tools:</h3>
