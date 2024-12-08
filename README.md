@@ -33,7 +33,7 @@
 - 🌍 Based in Recife, PE
 - ✉️ Contact: [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
 - 🔭 Currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en) as a Full-Stack Developer
-- 🌱 Improving skills in C# and .NET
+- 🌱 Improving skills in C#, .NET and GoLang
 - 👨‍💻 My project: [AMFM - About My Favorite Movie](https://www.aboutmyfavoritemovie.com.br/)
 - 💬 Ask me about React.js
 
