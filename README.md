@@ -22,7 +22,7 @@
 
 
 
-- 🎓 Student of Information Systems at the Federal University of Pernambuco
+- 🎓 Bachelor in Information Systems from the Federal University of Pernambuco
 - 👨‍💻 Mid-level Front-end Developer
 - 👨‍💻 Junior Back-end Developer
 - 👨‍🏫 Software Engineering Discipline Monitor
@@ -32,8 +32,10 @@
 - 🎸 Guitar player
 - 🌍 Based in Recife, PE
 - ✉️ Contact: [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
-- 🔭 Currently working on [On-line Applications](https://www.onlineapp.com.br/?lang=en) as a Full-Stack Developer
-- 🌱 Improving skills in C#, .NET and GoLang
+- 🔭 Currently working on [CI&T](https://ciandt.com/uk/en-gb) as a Front-end Developer
+- 🌱 Improving skills in C# and .NET
+- 🌱 Improving expertise in GoLang and learning SQL for back-end development.
+- 🔭 Exploring cloud technologies to enhance system scalability.
 - 👨‍💻 My project: [AMFM - About My Favorite Movie](https://www.aboutmyfavoritemovie.com.br/)
 - 💬 Ask me about React.js
 
