@@ -31,14 +31,12 @@
 - 😊 Instagram page creator: @grijp.js
 - 🧩 Enthusiastic about solving challenges
 - 🎸 Guitar player
-- 🌍 Based in Recife, PE
+- 🌍 Based in Brasil
 - ✉️ Contact: [grijpjean@gmail.com](mailto:grijpjean@gmail.com)
 - 🔭 Currently working on [CI&T](https://ciandt.com/uk/en-gb) as a Full-Stack Developer
 - 🌱 Improving skills in Java
 - 🌱 Improving expertise in GoLang and learning SQL for back-end development.
 - 🔭 Exploring cloud technologies to enhance system scalability.
-- 👨‍💻 My project: [AMFM - About My Favorite Movie](https://www.aboutmyfavoritemovie.com.br/)
-- 💬 Ask me about React.js
 
 
 <h3 align="left">Languages and Tools:</h3>
