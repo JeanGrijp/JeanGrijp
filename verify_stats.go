@@ -11,7 +11,7 @@ import (
 	"github.com/JeanGrijp/JeanGrijp/svg"
 )
 
-func main() {
+func init() {
 	// 1. Load config (to get username/token logic if needed, though we mainly need env var)
 	token := os.Getenv("GH_TOKEN")
 	if token == "" {
