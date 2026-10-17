@@ -11,7 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Recife-Brazil-1f425f?style=for-the-badge" alt="Recife, Brazil"/>
   <img src="https://img.shields.io/badge/Open%20to-connect-84cc16?style=for-the-badge" alt="Open to connect"/>
   <img src="https://img.shields.io/github/followers/JeanGrijp.svg?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
 </div>
@@ -20,7 +19,7 @@
 
 ## About me
 
-I'm a full-stack engineer from Recife, Brazil. I work on the front-end and back-end sides of enterprise platforms, from React and TypeScript interfaces to Go and Java services. My focus is on code that is fast, maintainable, and easy to change.
+I'm a full-stack engineer. I work on the front-end and back-end sides of enterprise platforms, from React and TypeScript interfaces to Go and Java services. My focus is on code that is fast, maintainable, and easy to change.
 
 - 💼 **Now:** Full Stack Engineer at [CI&T](https://ciandt.com/), since August 2024
 - 🎓 **Education:** B.Sc. in Information Systems, Federal University of Pernambuco (UFPE), and postgraduate in Software Development at [Full Cycle](https://fullcycle.com.br/)
