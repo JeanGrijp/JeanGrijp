@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=Full-stack+Engineer+%40+CI%26T;Go+%C2%B7+Java+%C2%B7+React+%C2%B7+TypeScript;Building+scalable+APIs+and+microservices;Turning+legacy+front-ends+into+fast+ones" alt="Typing animation: Full-stack Engineer at CI&T, Go, Java, React, TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=Full-stack+Engineer+%40+CI%26T;Go+%C2%B7+Java+%C2%B7+React+%C2%B7+TypeScript;Building+scalable+APIs+and+microservices;Turning+legacy+front-ends+into+fast+ones" alt="Typing animation: Full-stack Engineer, Go, Java, React, TypeScript"/>
 </div>
 
 <br/>
