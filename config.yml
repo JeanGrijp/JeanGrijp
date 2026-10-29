@@ -1,20 +1,20 @@
 # Galaxy Profile README Configuration
-# Fork this repo and customize this file to make it your own!
+# Based on the galaxy-readme template.
 
 username: JeanGrijp
 
 profile:
-  name: "Vinícius Melo"
-  tagline: "AI Engineer"
-  company: "Rumo Tech"
+  name: "Jean Grijp"
+  tagline: "Full Stack Engineer"
+  company: "CI&T"
   location: "Brazil"
   bio: |
-    Building robust systems and crafting elegant solutions.
-  philosophy: 'Solving one problem at a time, with code and creativity.'
+    Building scalable front-ends and APIs for enterprise platforms.
+  philosophy: 'React · TypeScript · Next.js · Go'
 
 social:
-  email: "vinicius@rumotech.com.br"
-  linkedin: "vinimlo"
+  email: ""
+  linkedin: "jeangrijp"
   website: ""
 
 # Galaxy arms represent your core focus areas
@@ -25,29 +25,24 @@ galaxy_arms:
     items:
       - "TypeScript"
       - "React"
-      - "Flask"
-      - "AWS / Oracle"
-  - name: "AI & Data"
+      - "Next.js"
+      - "Azure / AWS"
+  - name: "Back-end"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "PyTorch"
-      - "MySQL"
-  - name: "Automation"
+      - "Go"
+      - "PostgreSQL"
+      - "GraphQL"
+  - name: "Quality"
     color: "axon_amber"
     items:
-      - "GitHub Actions"
-      - "Linux"
+      - "Jest"
+      - "Storybook"
       - "Docker"
 
 # Featured projects shown as constellation stars
-projects:
-  - repo: "vinimlo/tabAla"
-    arm: 0
-    description: "Salve abas. Organize em coleções. Processe quando quiser."
-  - repo: "vinimlo/gaeia"
-    arm: 1
-    description: "Grupo Autônomo de Estudos em IA"
+# Left empty: the repositories worth showing are private.
+projects: []
 
 # Theme color overrides (optional — defaults to deep space palette)
 theme:

@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=Full-stack+Engineer;Go+%C2%B7+Java+%C2%B7+React+%C2%B7+TypeScript;Building+scalable+APIs+and+microservices;Turning+legacy+front-ends+into+fast+ones" alt="Typing animation: Full-stack Engineer, Go, Java, React, TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Go;Building+scalable+front-ends+and+APIs;Turning+legacy+front-ends+into+fast+ones" alt="Typing animation: Full Stack Engineer, React, TypeScript, Next.js, Go"/>
 </div>
 
 <br/>
@@ -19,20 +19,20 @@
 
 ## About me
 
-I'm a full-stack engineer. I work on the front-end and back-end sides of enterprise platforms, from React and TypeScript interfaces to Go and Java services. My focus is on code that is fast, maintainable, and easy to change.
+I'm a full stack engineer with a front-end base (React, TypeScript, Next.js, GraphQL) and back-end experience in Go. I build enterprise software for international clients and work in English every day with a team spread across the US, Colombia, China and Brazil. My focus is on code that is fast, maintainable, and easy to change.
 
 - 💼 **Now:** Full Stack Engineer at [CI&T](https://ciandt.com/), since August 2024
-- 🎓 **Education:** B.Sc. in Information Systems, Federal University of Pernambuco (UFPE), and postgraduate in Software Development at [Full Cycle](https://fullcycle.com.br/)
-- 📚 **Learning:** advanced Go, with microservices, gRPC, and Kafka
-- 🧑‍🏫 **Teaching:** I share development notes on Instagram at [@grijp.js](https://instagram.com/grijp.js)
+- 🎓 **Education:** B.Sc. in Information Systems, Federal University of Pernambuco (UFPE), and a postgraduate specialization in Advanced Go Development (Go Expert) at [Full Cycle](https://fullcycle.com.br/)
+- 📚 **Learning:** Kotlin, plus advanced Go with microservices, gRPC, and Kafka
+- 🧑‍🏫 **Teaching:** teaching assistant at UFPE for Programming 1 (2 terms, volunteer) and Software Engineering (3 years)
 - 🎸 **Off-screen:** I play guitar
 
 ## Highlights
 
-- 🚀 Led a legacy front-end refactor at CI&T that cut page load time by **40%** and reduced API integration latency.
-- 🏗️ Designed a React and TypeScript front-end from scratch for a receivables-anticipation SaaS, including a custom Ant Design system.
-- 🧱 Built Go and Java microservices with unit tests and code review as a standard part of delivery.
-- 💳 Shipped a fintech MVP for corporate invoice payments and receivables.
+- 🚀 Migrated a legacy front end from JavaScript to TypeScript on my own in about 3 weeks, and removed unused libraries and adopted React Query. Bundle size dropped about **40%**.
+- 🧭 Simplified a travel-insurance API so quotes come from a single source of truth, and kept about 90% test coverage on the API and the front end.
+- 🔐 Implemented key rotation for invitation links with Azure Key Vault.
+- 🏗️ Built the front end of a receivables-anticipation platform from scratch in React and TypeScript, including custom Ant Design components.
 
 ## Tech stack
 
@@ -43,7 +43,7 @@ I'm a full-stack engineer. I work on the front-end and back-end sides of enterpr
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,react,nextjs,ts,js,nodejs,postgres,docker,git,github,figma,linux&theme=dark" alt="Languages and tools"/>
+  <img src="https://skillicons.dev/icons?i=go,react,nextjs,ts,js,graphql,postgres,azure,aws,docker,git,github,figma,linux&theme=dark" alt="Languages and tools"/>
 </p>
 
 ## Currently exploring
@@ -77,7 +77,6 @@ I'm a full-stack engineer. I work on the front-end and back-end sides of enterpr
 <p align="center">
   <a href="https://www.linkedin.com/in/jeangrijp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dev.to/jeangrijp"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
-  <a href="https://instagram.com/grijp.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://medium.com/@grijpjean"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
