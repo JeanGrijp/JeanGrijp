@@ -15,6 +15,10 @@ const (
 
 func RenderProjectsConstellation(projects []config.Project, galaxyArms []config.GalaxyArm, theme map[string]string) string {
 	width, height := ProjectsWidth, ProjectsHeight
+	if len(projects) == 0 {
+		// Nothing to feature: emit a valid empty card instead of dividing by zero below.
+		return fmt.Sprintf(`<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d"></svg>`, width, height, width, height)
+	}
 	armColors := config.ResolveArmColors(galaxyArms, theme)
 
 	n := len(projects)
